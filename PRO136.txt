@@ -1,0 +1,10 @@
+Specific Tasks to complete the Project: 
+1. Import pandas module. 
+2. Import the csv file created in project 134.
+ 3. Create the lists from the columns of dataframe. 
+ 4. Make a list of dictionaries from this data.
+  5. Copy the final list. 
+  ● Make a data variable in a new file and store the final list in that variable. 
+  ● Save the file as data.py 
+  6. Create a new python program to make api using flask.
+   7. Run the code and test in the browser.
